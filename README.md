@@ -1,5 +1,9 @@
 # Toxic-Comment-Classification
-Classifying toxic comments to promote healthier team discussions
+Classifying toxic comments to promote healthier team discussions. 
+
+### Dataset source
+
+Dataset sourced from Jigsaw's Kaggle Competition - [Unintended Bias in Toxicity Classification competition](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview)
 
 ### Models attempted
 ```
