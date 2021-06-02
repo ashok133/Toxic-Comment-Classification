@@ -18,5 +18,5 @@ requests-toolbelt==0.7.0
 rsa==4.0
 six==1.11.0
 scipy==1.2.1
-urllib3==1.24.1
+urllib3==1.26.5
 sklearn==0.0
